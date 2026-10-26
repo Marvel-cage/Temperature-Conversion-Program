@@ -21,7 +21,7 @@ C = (F - 32) * 5/9
 K = C + 273.15
 
 ## ▶️ How to run
-1. Download `Temperature_conversion_program.py`
+1. Download `Temperature_Conversion_program.py`
 2. Make sure Python is installed
 3. Run:
 ```bash
